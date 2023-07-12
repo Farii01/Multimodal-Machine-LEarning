@@ -1,0 +1,2458 @@
+Movie,Director,Writer,Rating,Genre
+Shutter Island,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Martin Scorsese, Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley",8.2,"Mystery, Thriller"
+Unknown,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Jaume Collet-Serra, Liam Neeson, Diane Kruger, January Jones, Aidan Quinn",6.8,"Action, Mystery, Thriller"
+Who Am I - Kein System ist sicher,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Baran bo Odar, Tom Schilling, Elyas M'Barek, Wotan Wilke Möhring, Antoine Monot Jr.",7.5,"Crime, Drama, Mystery"
+Inside Man,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Spike Lee, Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer",7.6,"Crime, Drama, Mystery"
+The Prestige,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Christopher Nolan, Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",8.5,"Drama, Mystery, Sci-Fi"
+The Illusionist,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Neil Burger, Edward Norton, Jessica Biel, Paul Giamatti, Rufus Sewell",7.5,"Drama, Fantasy, Mystery"
+Snowden,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Edward Snowden, Oliver Stone, Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo, Zachary Quinto",7.3,"Biography, Crime, Drama"
+The Shawshank Redemption,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Frank Darabont, Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",9.3,Drama
+Colonia,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Florian Gallenberger, Emma Watson, Daniel Brühl, Michael Nyqvist, Richenda Carey",7,"Biography, Drama, History"
+Rescue Dawn,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Werner Herzog, Christian Bale, Steve Zahn, Jeremy Davies, Zach Grenier",7.3,"Adventure, Biography, War"
+Les Misérables,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Bille August, Liam Neeson, Geoffrey Rush, Uma Thurman, Christopher Adamson",7.4,"Crime, Drama, Romance"
+Snowpiercer,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Bong Joon Ho, Chris Evans, Jamie Bell, Tilda Swinton, Ed Harris",7.1,"Action, Drama, Sci-Fi"
+The Pursuit of Happyness,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Gabriele Muccino, Will Smith, Thandiwe Newton, Jaden Smith, Brian Howe",8,"Biography, Drama"
+A Beautiful Mind,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, John Nash, Ron Howard, Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",8.2,"Biography, Drama"
+The Count of Monte Cristo,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Kevin Reynolds, Jim Caviezel, Guy Pearce, Christopher Adamson, JB Blanc",7.7,"Action, Adventure, Drama"
+Seven Pounds,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Gabriele Muccino, Will Smith, Rosario Dawson, Woody Harrelson, Michael Ealy",7.6,Drama
+Ip Man,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Wilson Yip, Donnie Yen, Simon Yam, Siu-Wong Fan, Ka-Tung Lam",8,"Action, Biography, Drama"
+Yip Man 2,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Wilson Yip, Donnie Yen, Xiaoming Huang, Sammo Kam-Bo Hung, Lynn Xiong",7.5,"Action, Biography, Drama"
+Yip Man 3,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Wilson Yip, Donnie Yen, Lynn Xiong, Jin Zhang, Mike Tyson",7,"Action, Biography, Drama"
+Jungle,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Greg McLean, Daniel Radcliffe, Thomas Kretschmann, Alex Russell, Joel Jackson",6.7,"Action, Adventure, Biography"
+The 33,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Patricia Riggen, Antonio Banderas, Rodrigo Santoro, Juliette Binoche, James Brolin",6.9,"Biography, Drama, History"
+Escape from Alcatraz,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Don Siegel, Clint Eastwood, Patrick McGoohan, Roberts Blossom, Jack Thibeau",7.6,"Action, Biography, Crime"
+Papillon,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Michael Noer, Charlie Hunnam, Damijan Oklopdzic, Christopher Fairbank, Jason Ryan",7.2,"Adventure, Biography, Crime"
+Traitor,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Jeffrey Nachmanoff, Don Cheadle, Guy Pearce, Archie Panjabi, Saïd Taghmaoui",6.9,"Action, Crime, Drama"
+The Imitation Game,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Alan Turing, Morten Tyldum, Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech",8,"Biography, Drama, Thriller"
+Schindler's List,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Oskar Schindler, Steven Spielberg, Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",9,"Biography, Drama, History"
+The Pianist,Unknown Director,", 1
+
+
+
+
+
+
+
+
+Rate, 2
+
+
+
+
+
+
+
+
+Rate, 3
+
+
+
+
+
+
+
+
+Rate, 4
+
+
+
+
+
+
+
+
+Rate, 5
+
+
+
+
+
+
+
+
+Rate, 6
+
+
+
+
+
+
+
+
+Rate, 7
+
+
+
+
+
+
+
+
+Rate, 8
+
+
+
+
+
+
+
+
+Rate, 9
+
+
+
+
+
+
+
+
+Rate, 10
+
+
+
+
+
+
+
+
+Rate, Roman Polanski, Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox",8.5,"Biography, Drama, Music"
