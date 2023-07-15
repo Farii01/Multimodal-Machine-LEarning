@@ -1,7 +1,7 @@
 # Multimodal_Machine_Learning
-The datasets are uploaded as well as the codes
-In each code the steps taken are:
+The datasets are uploaded as well as the codes.
 
+In each of the codes, the steps taken are:
 1.	Data Collection by Web scrapping : Web scraping tools were employed to collect the necessary data from IMDB. I learned this new way of collecting information for a dataset, which I didn’t know about before. I scrapped the information from the html code of the website which was quite challenging.
 
 2.	Data pre-processing: Each dataset was properly cleaned and necessary steps were taken to prepare them for their model training. Applied scaling, feature extraction, conversion and other important steps where it was necessary.
